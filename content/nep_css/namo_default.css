@@ -4,3 +4,8 @@
 @import url(./namo_export_nav.css);
 
 @font-face { font-family: "Noto Serif"; src: url(../nep_font/font_0000.ttf) format("truetype"); }
+[class^="nac_inline_"] {
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    background-position: center !important;
+}
